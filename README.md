@@ -1,6 +1,8 @@
 # project1
 
-A new Flutter project.
+
+![5402235605104059237](https://github.com/user-attachments/assets/43adee68-8b1c-4edd-a44b-251f4ee6c8f4)
+![5402235605104059249](https://github.com/user-attachments/assets/2d7ee3d2-e667-47c9-a76b-c4e27ab292c4)
 
 ## Getting Started
 
